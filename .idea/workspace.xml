@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b6a6aa7-4810-402d-8075-a6e427d0b7cd" name="Default Changelist" comment="Create module">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="2b6a6aa7-4810-402d-8075-a6e427d0b7cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -151,15 +149,27 @@
       <option name="project" value="LOCAL" />
       <updated>1600962585445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add project classes">
+      <created>1601467691269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601467691269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="Create module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create module" />
+    <MESSAGE value="Add project classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project classes" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="38" key="#Project_Structure" timestamp="1601468185350">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="240" y="38" key="#Project_Structure/0.23.1280.736@0.23.1280.736" timestamp="1601468185350" />
     <state x="100" y="123" width="1080" height="500" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601455148118">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
@@ -187,11 +197,11 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="343" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.734@0.23.1280.734" timestamp="1600984687485" />
-    <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1601467180159">
+    <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1601467690691">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="228" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1600962585160" />
-    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1280.737@0.23.1280.737" timestamp="1601467180159" />
+    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1280.737@0.23.1280.737" timestamp="1601467690691" />
     <state x="100" y="123" width="1080" height="500" key="DiffContextDialog" timestamp="1601467641926">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
@@ -232,6 +242,14 @@
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="369" y="91" key="RollbackChangesDialog/0.23.1280.737@0.23.1280.737" timestamp="1601467281162" />
+    <state x="492" y="296" key="VCS.ChangelistChooser" timestamp="1601468335186">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="492" y="296" key="VCS.ChangelistChooser/0.23.1280.735@0.23.1280.735" timestamp="1601468335186" />
+    <state x="478" y="249" key="VCS.EditChangelistDialog" timestamp="1601467949889">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="478" y="249" key="VCS.EditChangelistDialog/0.23.1280.736@0.23.1280.736" timestamp="1601467949889" />
     <state x="230" y="113" key="Vcs.Push.Dialog.v2" timestamp="1601467343597">
       <screen x="0" y="23" width="1280" height="737" />
     </state>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b6a6aa7-4810-402d-8075-a6e427d0b7cd" name="Default Changelist" comment="Create module">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hxpBBcjPS8dAlSRti2SjMHCeN7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dak.crypto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.dak in Crypto_v1.0">
+    <configuration name="CryptoMarketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_v1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dak.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dak.crypto" />
+      <option name="MAIN_CLASS_NAME" value="com.dak.crypto.CryptoMarketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptoMarketTest.testSubmissionToCorrectOrderBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_v1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dak.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dak.crypto" />
+      <option name="MAIN_CLASS_NAME" value="com.dak.crypto.CryptoMarketTest" />
+      <option name="METHOD_NAME" value="testSubmissionToCorrectOrderBoard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_v1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dak.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dak.crypto" />
+      <option name="MAIN_CLASS_NAME" value="com.dak.crypto.OrderBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_v1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dak.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dak.crypto" />
+      <option name="MAIN_CLASS_NAME" value="com.dak.crypto.OrderBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.dak in Crypto_v1.0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_v1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dak" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.dak in Crypto_v1.0" />
+        <item itemvalue="JUnit.CryptoMarketTest.testSubmissionToCorrectOrderBoard" />
+        <item itemvalue="JUnit.CryptoMarketTest" />
+        <item itemvalue="JUnit.OrderBookTest" />
+        <item itemvalue="JUnit.OrderBoardTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="remove_strategy" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6a6aa7-4810-402d-8075-a6e427d0b7cd" name="Default Changelist" comment="" />
+      <created>1600962460056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600962460056</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create module">
+      <created>1600962585445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600962585445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="Create module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create module" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1080" height="500" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601455148118">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="100" y="123" width="1080" height="500" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.737@0.23.1280.737" timestamp="1601455148118" />
+    <state x="443" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1601234303444">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="443" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.734@0.23.1280.734" timestamp="1600984928858" />
+    <state x="443" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.735@0.23.1280.735" timestamp="1600968641921" />
+    <state x="443" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.737@0.23.1280.737" timestamp="1601234303444" />
+    <state x="443" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.739@0.23.1280.739" timestamp="1601152592781" />
+    <state x="220" y="296" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600994583455">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="220" y="296" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1280.734@0.23.1280.734" timestamp="1600994583455" />
+    <state x="414" y="239" width="468" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600994656141">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="414" y="239" width="468" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.734@0.23.1280.734" timestamp="1600994656141" />
+    <state x="414" y="260" width="468" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600994601176">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="414" y="260" width="468" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1280.734@0.23.1280.734" timestamp="1600994601176" />
+    <state x="343" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600984687485">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="343" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.734@0.23.1280.734" timestamp="1600984687485" />
+    <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1601467180159">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1600962585160" />
+    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1280.737@0.23.1280.737" timestamp="1601467180159" />
+    <state x="100" y="123" width="1080" height="500" key="DiffContextDialog" timestamp="1601467641926">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="100" y="123" width="1080" height="500" key="DiffContextDialog/0.23.1280.737@0.23.1280.737" timestamp="1601467641926" />
+    <state width="1238" height="172" key="GridCell.Tab.0.bottom" timestamp="1601467135152">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="172" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1601467135152" />
+    <state width="1238" height="172" key="GridCell.Tab.0.center" timestamp="1601467135151">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="172" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1601467135151" />
+    <state width="1238" height="172" key="GridCell.Tab.0.left" timestamp="1601467135150">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="172" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1601467135150" />
+    <state width="1238" height="172" key="GridCell.Tab.0.right" timestamp="1601467135151">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="172" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1601467135151" />
+    <state width="1238" height="213" key="GridCell.Tab.1.bottom" timestamp="1601464719858">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="213" key="GridCell.Tab.1.bottom/0.23.1280.737@0.23.1280.737" timestamp="1601464719858" />
+    <state width="1238" height="213" key="GridCell.Tab.1.center" timestamp="1601464719857">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="213" key="GridCell.Tab.1.center/0.23.1280.737@0.23.1280.737" timestamp="1601464719857" />
+    <state width="1238" height="213" key="GridCell.Tab.1.left" timestamp="1601464719856">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="213" key="GridCell.Tab.1.left/0.23.1280.737@0.23.1280.737" timestamp="1601464719856" />
+    <state width="1238" height="213" key="GridCell.Tab.1.right" timestamp="1601464719858">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="213" key="GridCell.Tab.1.right/0.23.1280.737@0.23.1280.737" timestamp="1601464719858" />
+    <state x="369" y="91" key="RollbackChangesDialog" timestamp="1601467281162">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="369" y="91" key="RollbackChangesDialog/0.23.1280.737@0.23.1280.737" timestamp="1601467281162" />
+    <state x="230" y="113" key="Vcs.Push.Dialog.v2" timestamp="1601467343597">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="230" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1600962605580" />
+    <state x="230" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1601467343597" />
+    <state x="100" y="123" width="1080" height="500" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1601467641926">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="100" y="123" width="1080" height="500" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.23.1280.737@0.23.1280.737" timestamp="1601467641926" />
+    <state x="24" y="70" key="new project wizard" timestamp="1600962511899">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="24" y="70" key="new project wizard/0.23.1280.735@0.23.1280.735" timestamp="1600962511899" />
+    <state x="305" y="81" width="670" height="681" key="search.everywhere.popup" timestamp="1601151024273">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="305" y="81" width="670" height="676" key="search.everywhere.popup/0.23.1280.734@0.23.1280.734" timestamp="1600984240744" />
+    <state x="305" y="81" width="670" height="681" key="search.everywhere.popup/0.23.1280.739@0.23.1280.739" timestamp="1601151024273" />
+    <state x="16" y="139" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1601467553562">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="16" y="139" key="vcs.ApplyPatchDifferentiatedDialog/0.23.1280.737@0.23.1280.737" timestamp="1601467553562" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Crypto_v1.0/src/test/java/com/dak/crypto/util/OrderCreatorTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Crypto_v1.0/src/main/java/com/dak/crypto/OrderBook.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
